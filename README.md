@@ -38,6 +38,4 @@ npm run dev
 npm run build
 ```
 
-## 说明
 
-  本项目适合有一定vue基础的同学进阶学习，零基础也可以。
